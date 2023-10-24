@@ -1,0 +1,17 @@
+{
+  "name": "threejs",
+  "version": "1.0.0",
+  "description": "Three.js journey",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx parcel src/index.html"
+  },
+  "keywords": [
+    "three.js"
+  ],
+  "author": "Bharat Manral",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.157.0"
+  }
+}
